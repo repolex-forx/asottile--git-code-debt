@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/asottile/git-code-debt/commit/e8f2f643895c482f8ff9f110210434e7662a04b8",
       "git:hexsha": "e8f2f643895c482f8ff9f110210434e7662a04b8",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/asottile/git-code-debt/commit/830692a8c87ea48513b1c2eed462aa942609f451",

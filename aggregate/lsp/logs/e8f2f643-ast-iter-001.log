@@ -1,0 +1,7 @@
+[2026-10-20T11:38:01Z] === AST ITERATION 1 START | repo=asottile/git-code-debt sha=e8f2f643 ===
+[2026-10-20T11:38:01Z] [iter=1] PHASE START: ast repo=asottile/git-code-debt sha=e8f2f643
+[2026-10-20T11:38:01Z] [iter=1] Building AST aggregate chunks
+[2026-10-20T11:38:21Z] [iter=1] AST chunks built count=1 triples=177438
+[2026-10-20T11:38:21Z] [iter=1] AST .complete marker written path=/home/runner/work/forx/forx/storage/aggregate/ast/e8f2f643895c482f8ff9f110210434e7662a04b8/.complete
+[2026-10-20T11:38:21Z] [iter=1] PHASE END: ast elapsed_s=19 elapsed_min=0.3
+[2026-10-20T11:38:21Z] [iter=1] Wrote .next-action.json next_action=enrich path=/home/runner/work/forx/forx/storage/aggregate/.next-action.json
